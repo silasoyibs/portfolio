@@ -2731,9 +2731,11 @@ p {
 }
 .fiver-logo {
   display: block;
-  height: 8rem !important;
-  width: 8rem !important;
+  height: 4rem !important;
 }
 .port-img {
   height: 100%;
+}
+.Fiverr {
+  padding-bottom: 4rem;
 }
